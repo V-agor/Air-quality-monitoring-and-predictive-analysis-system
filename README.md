@@ -1,2 +1,3 @@
-# Air-quality-monitoring-and-predictive-analysis-system
-o develop an Arduino-based air quality monitoring system that collects real-time data (e.g., CO2, smoke, temperature, humidity) and sends it to a computer/cloud for data analysis, visualization, and prediction of hazardous air quality events using data science techniques.
+# Smart Air Quality Monitoring and Prediction System
+
+This project uses an Arduino with environmental sensors (MQ135, DHT11) to gather air quality, temperature, and humidity data. The collected data is analyzed in Python using data science techniques to predict air quality and visualize trends.
