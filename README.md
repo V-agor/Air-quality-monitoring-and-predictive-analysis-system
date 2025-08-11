@@ -14,5 +14,5 @@ This project interfaces an **Arduino board with a DHT11 sensor** to monitor temp
 
 ---
 
-## 📁 Project Structure
+
 
