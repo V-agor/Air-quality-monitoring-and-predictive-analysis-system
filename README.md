@@ -1,6 +1,6 @@
 # 🌡️ DHT11 Temperature & Humidity Logger with Python
 
-This project interfaces an **Arduino board with a DHT11 sensor** to monitor temperature and humidity. The readings are transmitted over serial and logged using a **Python script** to a `.csv` file for future analysis or visualization.
+This project interfaces an **Arduino board with a DHT11 sensor** to monitor temperature and humidity. The readings are transmitted over serial and logged using a **Python script** to a `.csv` file for analysis or visualization.
 
 ---
 
